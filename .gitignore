@@ -1,0 +1,137 @@
+# IntelliJ and Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Flutter build and generated files
+/build/
+.dart_tool/
+/.dart_tool/
+.pub/
+/build_runner/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins.lock
+.dart_tool/build/
+.dart_tool/flutter_build/
+.dart_tool/version
+.flutter-plugins-dependencies
+.pub-cache/
+.pub-cache/*
+
+# Android
+/build/
+/android/app/build/
+/android/gradle/
+/build/
+/captures/
+
+# iOS
+/ios/Pods/
+/ios/Podfile.lock
+/ios/Podfile.lock.lock
+/ios/Pods/
+
+# macOS
+/macos/Pods/
+/macos/Podfile.lock
+/macos/Podfile.lock.lock
+/macos/Pods/
+
+# Web
+/web/build/
+
+# Tests
+/test/
+
+# Temporary files
+*.log
+*.log.*
+*.stackdump
+
+# Flutter package
+*.tar.gz
+
+# Flutter/Dart package
+.packages
+.pub/
+
+# Flutter project
+/flutter.iml
+
+# Dart analysis
+.dart_tool/
+
+# Xcode
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/
+/ios/Flutter/
+/ios/Generated.xcconfig
+/ios/Runner/GeneratedPluginRegistrant.*
+
+# Android Studio
+/.gradle/
+/captures/
+
+# Miscellaneous
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+*.dot
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/dart.xml
+.idea/dataSources.xml
+.idea/libraries
+*.iml
+*.log
+*.pot
+*.pyc
+*.pyo
+*.hprof
+*.orig
+*.tmp
+*.patch
+*.ipr
+*.iws
+*.bak
+*.swp
+*~.nib
+*.out
+*.md
+*.der
+*.pem
+*.p12
+*.1
+*.2
+*.3
+*.4
+*.5
+*.6
+*.7
+*.8
+*.9
+*.o
+*.swp
+*.part
+*.aux
+*.toc
+*.log
+*.dvi
+*.bbl
+*.blg
+*.pdfsync
+*.synctex.gz
